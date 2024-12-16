@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "3358207e-0f60-3c99-a7be-7a90ddebf2fe",
+    "name": "TP_TomeP",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
